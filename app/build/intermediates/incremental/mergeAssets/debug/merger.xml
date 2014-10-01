@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Balamurali\AndroidstudioProjects\CityWatch-Android1\app\src\main\assets" >
+            <file
+                name="kinvey.properties"
+                path="C:\Users\Balamurali\AndroidstudioProjects\CityWatch-Android1\app\src\main\assets\kinvey.properties" />
+            <file
+                name="Roboto-Thin.ttf"
+                path="C:\Users\Balamurali\AndroidstudioProjects\CityWatch-Android1\app\src\main\assets\Roboto-Thin.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Balamurali\AndroidstudioProjects\CityWatch-Android1\app\src\debug\assets" />
+    </dataSet>
+
+</merger>
